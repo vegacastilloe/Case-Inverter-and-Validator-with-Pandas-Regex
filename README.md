@@ -1,4 +1,4 @@
-# 🔄 Case Inverter & Validator with Pandas + Regex
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=FFFFFF&width=435&height=51&lines=%F0%9F%94%84+Case+Inverter+%26+Validator;+with+Pandas+%2B+Regex)](https://git.io/typing-svg)
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-cyan.svg)
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue)
